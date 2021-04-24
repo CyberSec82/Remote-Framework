@@ -1,3 +1,3 @@
 # Site navigation links
-title: JCL Alliance
+title: JCJ Alliance
 url: /JCJ_Alliance/index.html
